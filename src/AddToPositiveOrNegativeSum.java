@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class AddToPositiveOrNegativeSum {
     public static void main(String[] args) {
         // declare and instantiate a Scanner variable and object
-
+        Scanner scan = new Scanner(System.in);
         // declare and initialize variables for a positive and negative sum
 
         for (int i = 1; i <= 10; i++) {
