@@ -7,7 +7,7 @@ public class AddToPositiveOrNegativeSum {
 
         for (int i = 1; i <= 10; i++) {
             /* in this block, allow the user to input a number and add the number to the appropriate sum */
-
+        System.out.println();
 
         } // end of for loop
 
